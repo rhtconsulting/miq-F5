@@ -11,7 +11,7 @@
 | Name      | {project-name}
 | License   | GPL v2 (see LICENSE file)
 | Version   | 1.0
-| Summary   | Integration of ManageIQ with Infoblox in order to: Get next ip, Add host records, Delete host records (Including all aliases), Add aliases, Add dhcp entries, Add/Remove DHCP Reservations
+| Summary   | Integration of ManageIQ with F5 in order to: Adds a VM to a LB Pool, Removes a VM from a LB Pool
 |======================
 
 ## Author
